@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565518925 source:d:\c\memorystatus\main.c
+	<stdio.h>
+	<windows.h>
+	<tchar.h>
+
